@@ -1,0 +1,4 @@
+width=120
+height=90
+fps=-2
+eps=16
